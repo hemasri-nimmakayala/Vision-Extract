@@ -7,11 +7,10 @@ An end-to-end AI application that automatically isolates subjects from images by
 
 ## 📸 Screenshots
 
-![Screenshot 1](Screenshot%202026-05-17%20161615.png)
-![Screenshot 2](Screenshot%202026-05-17%20161639.png)
-![Screenshot 3](Screenshot%202026-05-17%20161710.png)
-![Screenshot 4](Screenshot%202026-05-17%20161946.png)
-
+![App Screenshot](Screenshot%202026-05-17%20161615.png)
+![Output 1](Screenshot%202026-05-17%20161639.png)
+![Output 2](Screenshot%202026-05-17%20161710.png)
+![Output 3](Screenshot%202026-05-17%20161946.png)
 ---
 
 ## 🔍 What It Does
