@@ -34,3 +34,26 @@ An end-to-end AI application that automatically isolates subjects from images by
 ---
 
 ## 📁 Project Structure
+
+Vision-Extract/
+├── app.py                            # Streamlit web app
+├── Task1_MentorVersion.ipynb         # Initial segmentation pipeline
+├── Task2_Preprocessing_Final.ipynb   # Image preprocessing
+├── Task_3_Binary_Mask_Verification.ipynb  # Mask verification
+├── task4_final.ipynb                 # Final pipeline
+└── screenshots/                      # Demo images
+
+---
+
+## 🚀 How to Run
+
+```bash
+pip install streamlit
+streamlit run app.py
+```
+
+---
+
+## 📅 Built
+
+October 2025 – December 2025
